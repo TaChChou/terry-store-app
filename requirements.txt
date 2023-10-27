@@ -81,6 +81,7 @@ Pygments
 pyodbc
 pyppeteer
 pyspark
+python==3.9
 python-dateutil
 python-json-logger
 pytz
