@@ -11,6 +11,7 @@ backcall
 beautifulsoup4
 bleach
 blinker
+cargo
 certifi
 cffi
 charset-normalizer
