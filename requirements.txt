@@ -91,6 +91,7 @@ requests
 rfc3339-validator
 rfc3986-validator
 rpds-py
+rust
 scikit-learn
 scipy
 Send2Trash
